@@ -91,4 +91,4 @@ Interested in the tools behind today's workshop?
 
 - [Pratik Sachdeva](https://dlab.berkeley.edu/people/pratik-sachdeva)
 - Tom van Nuenen
-- AI Agents: Codex and Claude Code
+- AI Agents: Codex (GPT 6 Astra) and Claude Code (Fable 5.1)
